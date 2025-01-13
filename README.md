@@ -1,0 +1,1 @@
+# rspack-splitchunk-issue
